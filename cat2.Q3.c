@@ -6,12 +6,6 @@ Date: 06/11/2025
 Description:A program for processing list of intergers
 */
 
-
-
-
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
